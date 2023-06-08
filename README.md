@@ -1,5 +1,5 @@
 # Activating Generative AI with ChatGPT APEX Action
-# by Nilan Fernando, 2023
+# by NF, 2023
 
 What Is it?
 
